@@ -6,6 +6,8 @@ neovim
 ripgrep
 btop
 github-cli
+yt-dlp
+rtorrent
 
 # virtual machine
 qemu-full
