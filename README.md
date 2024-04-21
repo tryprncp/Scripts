@@ -1,1 +1,1 @@
-# Installation Script
+# Automation Script
